@@ -22,7 +22,7 @@
 ## 💻 Tech Stack
 
 * Playwright
-* JavaScript
+* Python
 * Postman
 * REST APIs
 * SQL Server
